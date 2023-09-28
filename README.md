@@ -1,6 +1,11 @@
 # 📝 Syntask 📝
 
-_An AI-powered app designed to synthesize tasks and create comprehensive step-by-step plans._ Explore the app [here](http://aws-amplify-dummy-link.com).
+_An AI-powered app designed to synthesize tasks and create comprehensive step-by-step plans._ Explore the app here https://main.drq850hufabd1.amplifyapp.com
+
+<img width="1000" alt="Screen Shot 2023-09-28 at 4 16 01 PM" src="https://github.com/AceCanacan/syntask-web-public/assets/110709199/cd4c8159-ad88-4ec1-b21a-f3834486504c">
+<img width="1000" alt="Screen Shot 2023-09-28 at 4 15 52 PM" src="https://github.com/AceCanacan/syntask-web-public/assets/110709199/70e53476-0008-45c4-b349-8cbc7b8f4018">
+<img width="1000" alt="Screen Shot 2023-09-28 at 4 16 07 PM" src="https://github.com/AceCanacan/syntask-web-public/assets/110709199/bea44c44-fbf6-4be6-8b2f-4a56773d37ae">
+
 
 ## 📌 Table of Contents
 - [📖 Project Description](#-project-description)
