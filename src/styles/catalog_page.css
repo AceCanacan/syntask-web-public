@@ -1,0 +1,44 @@
+.catalog-container {
+  display: flex;
+  justify-content: center;
+  align-items: center; /* Center the wrapper-box vertically */
+  height: 100vh; /* To ensure the box is centered vertically, we set height to 100vh */
+}
+
+.wrapper-box {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start; /* Adjusted to align items to the start */
+  align-content: start; 
+  border-radius: 20px;
+  margin: 20px;
+  padding: 20px;
+  width: 1200px;
+  height: 500px;
+  background-color: #96B6C5;
+  overflow: auto; 
+}
+
+.text-box {
+  border: 10px solid #EEE0C9; /* Updated border color */
+  margin: 20px;
+  width: 250px; 
+  height: 250px; 
+  background-color: #F1F0E8; 
+  box-sizing: border-box; 
+  border-radius: 20px;
+  padding: 20px; 
+  overflow: hidden;
+}
+
+.new-task-btn {
+  display: block;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 20px;
+  border: 5px solid #EEE0C9;
+  background-color: #EEE0C9;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 16px;
+}
